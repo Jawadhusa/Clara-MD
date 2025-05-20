@@ -6,19 +6,19 @@ const readMore = more.repeat(4001)
 
 // Owner
 global.owner = [
-['628xxx', 'Xyroinee', true]
+['212637915359', 'Jawad', true]
 ]
 global.mods = []
 global.prems = []
 // Info
-global.nomorwa = '628xxx'
-global.packname = 'anu - MD by'
-global.author = '© Xyroinee'
-global.namebot = '​anu - MD'
-global.wm = '© anu By Xyroine'
-global.stickpack = 'anu - MD by'
-global.stickauth = '© Xyroine'
-global.fotonya = 'https://telegra.ph/file/83b522fd80b660705d1cd.jpg'
+global.nomorwa = '212637915359'
+global.packname = 'الستيكر ذا بتاع جواد اللي يسرقو gay'
+global.author = '© Jawad'
+global.namebot = '​IsHaQ-MD'
+global.wm = '© anu By Jawad'
+global.stickpack = 'الستيكر ذا بتاع جواد اللي يسرقو gay'
+global.stickauth = 'الستيكر ذا بتاع جواد اللي يسرقو gay'
+global.fotonya = 'https://i.ibb.co/5xsLHYTH/15a5aef74a52c5f3a39e4af19900d188.gif'
 // Link Sosmed
 global.sig = 'https://www.instagram.com/xyroinee'
 global.sgh = 'https://github.com/Xyroinee'
